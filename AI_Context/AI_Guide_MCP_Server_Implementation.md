@@ -61,9 +61,9 @@ The bridge automatically adapts to the target process architecture:
 │                              │ Named Pipe (Async)                      │
 │                              ▼                                          │
 │  ┌─────────────────────────────────────────────────────────────────┐   │
-│  │  CheatEngine (Running, attached to Lineage 2)                   │   │
+│  │  CheatEngine (Running, attached to .exe)                        │   │
 │  │  ┌─────────────────────────────────────────────────────────┐    │   │
-│  │  │  ce_mcp_bridge_v11.lua                                  │    │   │
+│  │  │  ce_mcp_bridge.lua                                      │    │   │
 │  │  │  ┌─────────────────┐      ┌─────────────────────┐       │    │   │
 │  │  │  │ Worker Thread   │◄────►│ Main Thread (GUI)   │       │    │   │
 │  │  │  │ (Blocking I/O)  │ Sync │ (Safe API Execution)│       │    │   │
