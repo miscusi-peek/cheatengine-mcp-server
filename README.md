@@ -1,3 +1,6 @@
+> [!NOTE]
+> Thanks everyone for the stars, much appreciated! <3
+
 [Demo](https://github.com/user-attachments/assets/a184a006-f569-4b55-858a-ed80a7139035)
 
 # Cheat Engine MCP Bridge
